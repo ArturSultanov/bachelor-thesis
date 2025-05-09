@@ -31,9 +31,17 @@ This thesis presents an AI-powered web application for galaxy morphology classif
 | Component | Repository / Resource |
 |-----------|-----------------------|
 | **Dataset preparation** | <https://github.com/ArturSultanov/cosmoformer-dataset> |
+| **Dataset preparation (no images)** | <https://github.com/ArturSultanov/cosmoformer-dataset-no-images> |
 | **Model training & artefacts** | <https://github.com/ArturSultanov/cosmoformer-model> |
 | **Trained model on Hugging Face** | <https://huggingface.co/artursultanov/cosmoformer-model> |
 | **Web application (backend + frontend)** | <https://github.com/ArturSultanov/cosmoformer-application> |
 | **LaTeX code** | <a href="latex-source/">latex-source</a> folder |
 
 Each repo is self‑contained with a `README.md` explaining how to reproduce the relevant stage.
+
+
+## Links:
+1. Galaxy classification application: https://github.com/ArturSultanov/cosmoformer-application
+2. CosmoFormer model: https://github.com/ArturSultanov/cosmoformer-model
+3. CosmoFormer dataset: https://github.com/ArturSultanov/cosmoformer-dataset
+4. CosmoFormer dataset (no pre-downloaded images): https://github.com/ArturSultanov/cosmoformer-dataset-no-images
