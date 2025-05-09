@@ -2,9 +2,7 @@
 
 This repository accompanies my bachelor thesis and serves as the **landing page** for the project.  
 
-
 ## Introduction
-
 
 This thesis presents an AI-powered web application for galaxy morphology classification, which utilizes machine learning and a vision transformer-based architecture. PyTorch is used for training the model and processing images from the Galaxy Zoo 2 dataset, while data augmentation enhances the model's ability to extract robust features. The final CosmoFormer model achieves competitive accuracy in galaxy image classification tasks. The responsive web application seamlessly integrates the backend API and the frontend user interface. Deployment on Red Hat OpenShift provides scalability and reliable orchestration for the system. This work demonstrates how machine learning and cloud-native technologies can be combined to automate galaxy morphology analysis for modern astronomical surveys.
 
@@ -39,9 +37,9 @@ This thesis presents an AI-powered web application for galaxy morphology classif
 
 Each repo is self‑contained with a `README.md` explaining how to reproduce the relevant stage.
 
-
-## Links:
+#Links:
 1. Galaxy classification application: https://github.com/ArturSultanov/cosmoformer-application
-2. CosmoFormer model: https://github.com/ArturSultanov/cosmoformer-model
-3. CosmoFormer dataset: https://github.com/ArturSultanov/cosmoformer-dataset
-4. CosmoFormer dataset (no pre-downloaded images): https://github.com/ArturSultanov/cosmoformer-dataset-no-images
+2. CosmoFormer model pipeline: https://github.com/ArturSultanov/cosmoformer-model
+3. CosmoFormer model Hugging Face card: https://huggingface.co/artursultanov/cosmoformer-model
+4. CosmoFormer dataset: https://github.com/ArturSultanov/cosmoformer-dataset
+5. CosmoFormer dataset (no pre-downloaded images): https://github.com/ArturSultanov/cosmoformer-dataset-no-images
